@@ -1,9 +1,6 @@
 ## GitLab CI is an open-source continuous integration server
 
 [![Build Status](https://travis-ci.org/mupek100/READMETEST.svg?branch=master)](https://travis-ci.org/mupek100/READMETEST)
-[![Code Climate](https://codeclimate.com/github/gitlabhq/gitlab-ci.png)](https://codeclimate.com/github/gitlabhq/gitlab-ci)
-[![Dependency Status](https://gemnasium.com/gitlabhq/gitlab-ci.png)](https://gemnasium.com/gitlabhq/gitlab-ci)
-[![Coverage Status](https://coveralls.io/repos/gitlabhq/gitlab-ci/badge.png?branch=master)](https://coveralls.io/r/gitlabhq/gitlab-ci)
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
 ## GitLab CI 8.0
